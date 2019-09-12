@@ -33,6 +33,8 @@ if (number1 > 0) {
         System.out.println("bkla bla");
         
         System.out.println("jason bakker");
+        
+        System.out.println("test test");
 }
     
 }
