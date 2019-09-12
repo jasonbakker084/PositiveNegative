@@ -30,6 +30,8 @@ if (number1 > 0) {
 } else {
     System.out.println("This number is negative");
 }
+        System.out.println("bkla bla");
 }
+    
 }
 
